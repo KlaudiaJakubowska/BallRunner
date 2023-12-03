@@ -919,3 +919,901 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.12.03-13.30.27:339][ 70]LogFileHelpers: Saving map 'Level01' took 0.119
 [2023.12.03-13.30.27:344][ 70]AssetCheck: New page: Asset Save: Level01
 [2023.12.03-13.30.27:344][ 70]LogContentValidation: Display: Validating World /Game/Maps/Level01.Level01
+[2023.12.03-13.34.11:960][895]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2023.12.03-13.36.02:004][787]Cmd: TRANSACTION UNDO
+[2023.12.03-13.36.02:004][787]LogEditorTransaction: Undo Move Actors
+[2023.12.03-13.36.04:415][860]Cmd: EDIT COPY
+[2023.12.03-13.36.04:761][872]Cmd: EDIT PASTE
+[2023.12.03-13.36.08:715][ 87]Cmd: EDIT COPY
+[2023.12.03-13.36.09:337][122]Cmd: EDIT PASTE
+[2023.12.03-13.36.10:377][175]Cmd: TRANSACTION UNDO
+[2023.12.03-13.36.10:377][175]LogEditorTransaction: Undo Paste
+[2023.12.03-13.37.02:489][ 36]Cmd: EDIT COPY
+[2023.12.03-13.37.02:921][ 59]Cmd: EDIT PASTE
+[2023.12.03-13.37.08:717][383]LogEditorViewport: Clicking Background
+[2023.12.03-13.37.13:148][624]LogEditorViewport: Clicking Background
+[2023.12.03-13.40.15:577][753]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.12.03-13.40.15:603][753]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/Level01_Auto1AE0340354C0F7EEE0CECA7BEE6FE8D65.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/Autosaves/Game/Maps/Level01_Auto1.umap'
+[2023.12.03-13.40.15:608][753]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level01' took 0.062
+[2023.12.03-13.40.15:608][753]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.062
+[2023.12.03-13.45.55:569][335]Cmd: EDIT COPY
+[2023.12.03-13.45.56:057][358]Cmd: EDIT PASTE
+[2023.12.03-13.46.13:011][284]Cmd: EDIT COPY
+[2023.12.03-13.46.13:407][304]Cmd: EDIT PASTE
+[2023.12.03-13.48.21:963][498]LogEditorViewport: Clicking Background
+[2023.12.03-13.48.26:776][774]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2023.12.03-13.48.28:150][847]Cmd: TRANSACTION UNDO
+[2023.12.03-13.48.28:150][847]LogEditorTransaction: Undo Brush Add
+[2023.12.03-13.49.22:291][677]Cmd: TRANSACTION UNDO
+[2023.12.03-13.49.22:292][677]LogEditorTransaction: Undo Set Scale
+[2023.12.03-13.49.38:672][480]Cmd: TRANSACTION UNDO
+[2023.12.03-13.49.38:673][480]LogEditorTransaction: Undo Scale Actors
+[2023.12.03-13.49.39:601][503]Cmd: TRANSACTION UNDO
+[2023.12.03-13.49.39:601][503]LogEditorTransaction: Undo Clicking on Actors
+[2023.12.03-13.49.40:539][535]Cmd: TRANSACTION UNDO
+[2023.12.03-13.49.40:540][535]LogEditorTransaction: Undo Select Brush Surface
+[2023.12.03-13.49.41:615][568]Cmd: TRANSACTION UNDO
+[2023.12.03-13.49.41:615][568]LogEditorTransaction: Undo Select Brush Surface
+[2023.12.03-13.49.42:177][586]Cmd: TRANSACTION UNDO
+[2023.12.03-13.49.42:177][586]LogEditorTransaction: Undo Reset Location
+[2023.12.03-13.49.47:884][826]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2023.12.03-13.49.48:451][854]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2023.12.03-13.50.15:230][271]Cmd: DELETE
+[2023.12.03-13.50.15:231][271]Cmd: ACTOR DELETE
+[2023.12.03-13.50.15:251][271]LogEditorActor: Deleted Actor: Actor
+[2023.12.03-13.50.15:271][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.12.03-13.50.15:273][271]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2023.12.03-13.50.16:960][361]LogActorFactory: Actor Factory created Sphere
+[2023.12.03-13.50.18:447][452]LogActorFactory: Actor Factory created Sphere
+[2023.12.03-13.50.46:294][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.12.03-13.50.46:333][763]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/Level01_Auto2902FAD6A40790D25567D30A24DC2F791.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/Autosaves/Game/Maps/Level01_Auto2.umap'
+[2023.12.03-13.50.46:336][763]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level01' took 0.071
+[2023.12.03-13.50.46:337][763]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.071
+[2023.12.03-13.54.24:071][409]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Level01.Level01:PersistentLevel.Level01
+[2023.12.03-13.54.24:644][409]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 126 classes and 0 folders.
+[2023.12.03-13.54.26:420][409]LogSlate: Took 0.002073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.12.03-13.54.37:262][843]BlueprintLog: New page: Compile Level01
+[2023.12.03-13.54.37:320][843]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2023.12.03-13.54.37:360][843]LogSlate: Took 0.002694 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.12.03-13.54.37:927][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level01" FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Maps/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.03-13.54.37:974][865]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2023.12.03-13.54.38:012][865]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/Level0152A166C942C4CEBA2B0387881BEC7ADE.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Maps/Level01.umap'
+[2023.12.03-13.54.38:021][865]LogFileHelpers: Saving map 'Level01' took 0.095
+[2023.12.03-13.54.38:048][865]AssetCheck: New page: Asset Save: Level01
+[2023.12.03-13.54.38:048][865]LogContentValidation: Display: Validating World /Game/Maps/Level01.Level01
+[2023.12.03-13.54.38:668][889]LogSlate: Window 'Level01' being destroyed
+[2023.12.03-13.54.38:687][889]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.12.03-13.54.38:687][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.03-13.54.46:695][233]LogActorFactory: Actor Factory created Cone
+[2023.12.03-13.54.52:817][587]LogActorFactory: Actor Factory created Cone
+[2023.12.03-13.55.00:395][980]Cmd: EDIT COPY
+[2023.12.03-13.55.00:752][998]Cmd: EDIT PASTE
+[2023.12.03-13.55.06:173][273]Cmd: EDIT PASTE
+[2023.12.03-13.55.10:361][486]Cmd: EDIT PASTE
+[2023.12.03-13.55.33:204][689]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.03-13.55.33:235][689]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.03-13.55.38:622][895]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2023.12.03-13.55.38:623][895]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.03-13.55.55:486][888]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.03-13.55.55:502][888]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.03-13.56.00:090][131]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2023.12.03-13.56.00:091][131]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.03-13.56.10:336][730]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.12.03-13.57.25:366][730]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.12.03-13.57.25:378][730]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.12.03-13.57.25:399][730]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.12.03-13.57.42:528][644]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Ball_01
+[2023.12.03-13.57.42:542][644]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.12.03-13.58.01:359][951]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.12.03-13.58.01:368][951]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.12.03-13.58.01:389][951]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.12.03-13.58.17:918][834]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Cone_01
+[2023.12.03-13.58.17:927][834]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.12.03-13.58.24:984][201]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Cone_01.BP_Cone_01
+[2023.12.03-13.58.25:859][201]LogRenderer: Reallocating scene render targets to support 808x596 Format 10 NumSamples 1 (Frame:1).
+[2023.12.03-13.58.27:975][266]LogSlate: Window 'BP_Cone_01' being destroyed
+[2023.12.03-13.58.38:696][580]LogSlate: Took 0.004166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.12.03-13.59.47:448][250]BlueprintLog: New page: Compile BP_Cone_01
+[2023.12.03-13.59.47:535][250]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2023.12.03-13.59.48:862][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Cone_01" FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Blueprints/BP_Cone_01.uasset" SILENT=true
+[2023.12.03-13.59.48:904][279]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/BP_Cone_014C79BDA24D8973E56B15559BA1D2E027.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Blueprints/BP_Cone_01.uasset'
+[2023.12.03-13.59.48:958][279]AssetCheck: New page: Asset Save: BP_Cone_01
+[2023.12.03-13.59.48:959][279]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Cone_01.BP_Cone_01
+[2023.12.03-13.59.59:491][753]Cmd: TRANSACTION UNDO
+[2023.12.03-13.59.59:491][753]LogEditorTransaction: Undo Create Actors
+[2023.12.03-14.00.37:882][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2023.12.03-14.00.38:616][603]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone2)
+[2023.12.03-14.00.39:321][636]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone3)
+[2023.12.03-14.00.39:797][657]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone4)
+[2023.12.03-14.00.48:576][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2023.12.03-14.00.50:000][151]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone2)
+[2023.12.03-14.00.50:663][182]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone3)
+[2023.12.03-14.00.51:327][213]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cone4)
+[2023.12.03-14.00.55:189][402]Cmd: DELETE
+[2023.12.03-14.00.55:189][402]Cmd: ACTOR DELETE
+[2023.12.03-14.00.55:199][402]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.03-14.00.55:201][402]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.03-14.00.55:202][402]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.03-14.00.55:203][402]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.03-14.00.55:263][402]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2023.12.03-14.00.55:265][402]LogEditorActor: Deleted 4 Actors (0.076 secs)
+[2023.12.03-14.00.56:231][452]LogEditorViewport: Clicking on Actor (LMB): BP_Cone_01_C (BP_Cone_01)
+[2023.12.03-14.01.18:502][521]LogEditorViewport: Clicking Background
+[2023.12.03-14.01.20:173][605]LogEditorViewport: Clicking on Actor (LMB): BP_Cone_01_C (BP_Cone_4)
+[2023.12.03-14.01.23:566][769]LogEditorViewport: Clicking Background
+[2023.12.03-14.01.43:858][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Cone_01" FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Blueprints/BP_Cone_01.uasset" SILENT=true
+[2023.12.03-14.01.43:867][ 89]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/BP_Cone_01CDEAAB314FC8EBF75ADC1A8E18CD15D3.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Blueprints/BP_Cone_01.uasset'
+[2023.12.03-14.01.43:890][ 89]AssetCheck: New page: Asset Save: BP_Cone_01
+[2023.12.03-14.01.43:890][ 89]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Cone_01.BP_Cone_01
+[2023.12.03-14.01.44:416][102]BlueprintLog: New page: Compile BP_Cone_01
+[2023.12.03-14.01.44:500][102]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2023.12.03-14.01.51:226][413]LogEditorViewport: Clicking on Actor (LMB): BP_Cone_01_C (BP_Cone_01)
+[2023.12.03-14.01.52:177][459]LogEditorViewport: Clicking Background
+[2023.12.03-14.01.57:937][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Cone_01" FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Blueprints/BP_Cone_01.uasset" SILENT=true
+[2023.12.03-14.01.57:974][587]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/BP_Cone_01478C410D42A8D54ED0FEB287D548C392.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Blueprints/BP_Cone_01.uasset'
+[2023.12.03-14.01.58:021][587]AssetCheck: New page: Asset Save: BP_Cone_01
+[2023.12.03-14.01.58:021][587]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Cone_01.BP_Cone_01
+[2023.12.03-14.01.58:339][594]BlueprintLog: New page: Compile BP_Cone_01
+[2023.12.03-14.01.58:417][594]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2023.12.03-14.02.00:589][680]LogEditorViewport: Clicking on Actor (LMB): BP_Cone_01_C (BP_Cone_01)
+[2023.12.03-14.02.01:442][721]LogEditorViewport: Clicking Background
+[2023.12.03-14.02.31:678][ 65]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2023.12.03-14.02.31:695][ 65]LogMaterial: Display: Missing cached shadermap for BasicShapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 5742090DE52F15B9263B1453070C53ED9C524FEC), compiling. 
+[2023.12.03-14.02.31:830][ 65]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2023.12.03-14.02.31:865][ 65]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2023.12.03-14.02.31:865][ 65]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2023.12.03-14.02.31:865][ 65]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2023.12.03-14.02.31:865][ 65]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.02.31:871][ 65]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.12.03-14.02.32:198][ 65]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.12.03-14.02.32:647][ 65]LogMaterial: Display: Missing cached shadermap for BasicShapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E330575177F681770974075A181A735D93837B23), compiling. 
+[2023.12.03-14.02.32:655][ 65]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8E853F4DAE820D340B4260E8CB7024CA9DAC2873), compiling. 
+[2023.12.03-14.02.32:679][ 65]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.02.33:069][ 74]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.02.37:969][242]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2023.12.03-14.02.37:969][242]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.02.37:983][242]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.03-14.02.37:983][242]LogShaderCompilers: Display: Total job queries 26, among them cache hits 0 (0.00%)
+[2023.12.03-14.02.37:983][242]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2023.12.03-14.02.37:983][242]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2023.12.03-14.02.37:983][242]LogShaderCompilers: Display: ================================================
+[2023.12.03-14.02.38:003][243]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.02.38:634][288]LogMaterial: Display: Missing cached shadermap for BasicShapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 0F4140BB487830AAEBE81F9A727F1ABB8A122917), compiling. 
+[2023.12.03-14.02.38:640][288]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9CC70ABE60C25100A31182B712A4E16D297B6D7E), compiling. 
+[2023.12.03-14.02.38:654][288]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.02.38:724][290]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.02.38:780][291]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.02.39:740][323]LogMaterial: Display: Missing cached shadermap for BasicShapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: BE4CC28C7860F19F5A9A6C7A8ADD8DDF866E927C), compiling. 
+[2023.12.03-14.02.39:746][323]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8E68143A9C492A0CA38195BE8F8A91C69FFBCF9D), compiling. 
+[2023.12.03-14.02.39:756][323]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.03-14.02.39:768][323]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.02.39:839][325]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.02.39:866][326]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.02.40:053][334]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2023.12.03-14.02.40:053][334]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.02.43:161][444]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.12.03-14.02.43:161][444]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2023.12.03-14.02.43:162][444]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.12.03-14.02.43:162][444]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.02.43:162][444]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.03.21:645][982]LogMaterial: Display: Missing cached shadermap for BasicShapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 1BFD09080F4D0CB5AB21E9C5ADB9025AF32C25B9), compiling. 
+[2023.12.03-14.03.21:649][982]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A48E9B38045D7F97A2B3A9D62A6546616D397C5D), compiling. 
+[2023.12.03-14.03.21:654][982]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.03.21:722][984]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.03.21:783][986]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.12.03-14.03.21:783][986]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2023.12.03-14.03.21:783][986]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.12.03-14.03.21:783][986]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.03.21:783][986]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.03.23:532][ 39]LogMaterial: Display: Missing cached shadermap for BasicShapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: DEA9E0DBF4C9D240D46BF986B058A4ACF96931E4), compiling. 
+[2023.12.03-14.03.23:536][ 39]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0B74E14BC70FB454091C4F4C2FBCE48BBA2B52BF), compiling. 
+[2023.12.03-14.03.23:541][ 39]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.03-14.03.23:549][ 39]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.03.23:618][ 41]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.03.23:680][ 43]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.12.03-14.03.23:680][ 43]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2023.12.03-14.03.23:680][ 43]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.12.03-14.03.23:680][ 43]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.03.23:680][ 43]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.03.35:850][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level01" FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Maps/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.03-14.03.35:896][417]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2023.12.03-14.03.35:930][417]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/Level0131ECB04F471700ACE1BFDAA5EA1BA0D6.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Maps/Level01.umap'
+[2023.12.03-14.03.35:967][417]AssetCheck: New page: Asset Save: Level01
+[2023.12.03-14.03.35:968][417]LogContentValidation: Display: Validating World /Game/Maps/Level01.Level01
+[2023.12.03-14.03.44:077][776]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.03-14.03.44:091][776]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.03-14.03.48:341][993]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2023.12.03-14.03.48:341][993]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.03-14.03.51:411][191]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.12.03-14.03.51:427][191]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.12.03-14.04.00:667][661]LogContentBrowser: Attempting asset rename: NewMaterial -> mat_green
+[2023.12.03-14.04.00:675][661]LogContentBrowser: End creating deferred item NewMaterial
+[2023.12.03-14.04.01:863][704]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.12.03-14.04.01:879][704]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.12.03-14.04.06:148][848]LogContentBrowser: Attempting asset rename: NewMaterial -> mat_red
+[2023.12.03-14.04.06:150][848]LogContentBrowser: End creating deferred item NewMaterial
+[2023.12.03-14.04.10:163][881]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/mat_red.mat_red
+[2023.12.03-14.04.10:165][881]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: E691116F6B1D757D77562E2F7DD1AFCBA76DC36A), compiling. 
+[2023.12.03-14.04.10:191][881]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.12.03-14.04.10:278][881]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: C9EE536654162F9837445B7664F4EE7EA79ABAC1), compiling. 
+[2023.12.03-14.04.10:290][881]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.04.10:403][882]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.04.10:403][882]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.12.03-14.04.10:403][882]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.12.03-14.04.10:403][882]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.04.10:403][882]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.12.03-14.04.10:403][882]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2023.12.03-14.04.10:404][882]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.04.12:411][958]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2023.12.03-14.04.12:411][958]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.04.12:999][981]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2023.12.03-14.04.12:999][981]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.04.13:045][982]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.04.16:201][ 95]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.12.03-14.04.16:201][ 95]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.04.17:646][141]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.03-14.04.17:646][141]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.03-14.04.17:646][141]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.04.17:646][141]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.06.15:593][300]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: B8CD85F9728B8639A6EBE4F286DFC3B3993DDE13), compiling. 
+[2023.12.03-14.06.15:601][300]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.06.15:625][301]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.03-14.06.15:625][301]LogShaderCompilers: Display: Total job queries 124, among them cache hits 54 (43.55%)
+[2023.12.03-14.06.15:625][301]LogShaderCompilers: Display: Tracking 24 distinct input hashes that result in 18 distinct outputs (75.00%)
+[2023.12.03-14.06.15:625][301]LogShaderCompilers: Display: RAM used: 0.11 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.03%
+[2023.12.03-14.06.15:625][301]LogShaderCompilers: Display: ================================================
+[2023.12.03-14.06.15:658][301]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 32DFFCC704A9F8261117B37367957B50B3595866), compiling. 
+[2023.12.03-14.06.15:663][301]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.06.15:694][302]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.06.15:694][302]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.12.03-14.06.15:694][302]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.12.03-14.06.15:694][302]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.06.15:696][302]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.03-14.06.15:697][302]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.03-14.06.15:697][302]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.06.15:697][302]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.06.15:705][303]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2023.12.03-14.06.15:705][303]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2023.12.03-14.06.15:705][303]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.06.17:505][358]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 4450193DBC35235171C3F2BD179607DE3739FAAD), compiling. 
+[2023.12.03-14.06.17:510][358]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.06.17:593][360]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.06.17:615][361]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.03-14.06.17:615][361]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.03-14.06.17:615][361]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.06.17:615][361]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.06.17:660][364]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2023.12.03-14.06.17:660][364]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.06.18:005][378]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2023.12.03-14.06.18:005][378]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.06.25:461][716]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 48D022734DE4E80305EA0ED17F50F5CDADCB306F), compiling. 
+[2023.12.03-14.06.25:467][716]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.06.25:509][718]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.06.25:531][719]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.03-14.06.25:531][719]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.03-14.06.25:531][719]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.06.25:531][719]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.06.26:958][766]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 2E604CCE7119649CD51930D77B2D30AEF0308519), compiling. 
+[2023.12.03-14.06.26:964][766]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.06.27:024][768]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.06.27:046][769]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.03-14.06.27:046][769]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.03-14.06.27:046][769]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.06.27:046][769]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.06.28:735][845]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 9DF21E45A55262EF2226ECDF06C5672AD7C76FD6), compiling. 
+[2023.12.03-14.06.28:742][845]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.06.28:785][846]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8A14FC6C53F8D534A49416D3FEA55DF7CC3E74B8), compiling. 
+[2023.12.03-14.06.28:790][846]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.06.28:826][847]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.06.28:826][847]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.12.03-14.06.28:826][847]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.12.03-14.06.28:826][847]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.06.28:826][847]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2023.12.03-14.06.28:826][847]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2023.12.03-14.06.28:826][847]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.06.28:827][847]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.03-14.06.28:827][847]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.03-14.06.28:827][847]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.06.28:827][847]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.06.28:965][849]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: A607D0AF97ECC72D61532E57CFC70D59042AF17E), compiling. 
+[2023.12.03-14.06.28:972][849]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.06.29:041][851]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.06.29:116][853]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.03-14.06.29:116][853]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.03-14.06.29:116][853]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.06.29:116][853]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.06.30:254][896]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2023.12.03-14.06.30:254][896]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.06.30:699][934]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: AF78FD649631853CBD97CE5ED23AC8DCB97313B8), compiling. 
+[2023.12.03-14.06.30:706][934]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.06.30:763][935]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2023.12.03-14.06.30:763][935]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.06.30:763][935]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 49474086245751FC206954B64E378C3F4B1EEC8E), compiling. 
+[2023.12.03-14.06.30:768][935]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.06.30:808][936]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.06.30:808][936]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2023.12.03-14.06.30:837][937]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.03-14.06.30:837][937]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.03-14.06.30:837][937]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.06.30:837][937]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.06.31:047][941]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 2342A9A95636543068DC677C723761BBF16CF4C4), compiling. 
+[2023.12.03-14.06.31:051][941]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.06.31:111][943]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.06.31:133][944]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2023.12.03-14.06.31:133][944]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.06.31:180][945]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2023.12.03-14.06.31:180][945]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.06.31:182][945]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.03-14.06.31:182][945]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.03-14.06.31:182][945]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.06.31:182][945]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.06.31:597][962]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2023.12.03-14.06.31:597][962]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.06.32:610][996]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2023.12.03-14.06.32:610][996]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.06.32:918][  6]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.12.03-14.06.32:918][  6]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.07.06:445][609]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 83A18FCF6BE67CC3979BB9A3658A203DDABED255), compiling. 
+[2023.12.03-14.07.06:455][609]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.07.06:510][610]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F8FDEBAD5FA95F5885027BB751B96E7B59E246A8), compiling. 
+[2023.12.03-14.07.06:515][610]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.03-14.07.06:515][610]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.03-14.07.06:515][610]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.07.06:515][610]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.07.06:533][611]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.07.06:542][612]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.12.03-14.07.06:542][612]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.12.03-14.07.06:542][612]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.07.06:544][612]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2023.12.03-14.07.06:565][612]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2023.12.03-14.07.06:565][612]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.07.08:668][688]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 01AE2272D1CDCE971289B69EF38B42E3974603D3), compiling. 
+[2023.12.03-14.07.08:673][688]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.07.08:724][690]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.07.08:749][691]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2023.12.03-14.07.08:749][691]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.07.08:796][692]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.03-14.07.08:797][692]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.03-14.07.08:797][692]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.07.08:797][692]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.07.09:191][707]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2023.12.03-14.07.09:191][707]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.07.12:218][824]LogMaterialEditor: Saving and Compiling material mat_red
+[2023.12.03-14.07.12:863][824]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: A7FFC7EAB2ACCD3C14F468FE6AC60392F59A5CFA), compiling. 
+[2023.12.03-14.07.12:904][824]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 2A12C5D6A37E1F5F19D7C8E9A7FA6A648FF326CD), compiling. 
+[2023.12.03-14.07.12:998][824]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2023.12.03-14.07.13:009][824]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.07.13:393][824]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2023.12.03-14.07.13:393][824]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.07.13:393][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.12.03-14.07.13:528][824]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2023.12.03-14.07.13:535][824]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2023.12.03-14.07.13:535][824]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2023.12.03-14.07.13:535][824]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2023.12.03-14.07.13:535][824]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.07.13:606][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/mat_red" FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Materials/mat_red.uasset" SILENT=true
+[2023.12.03-14.07.13:623][824]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/mat_redC220057B4188ED02F831E48BEEEB555E.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Materials/mat_red.uasset'
+[2023.12.03-14.07.14:004][824]AssetCheck: New page: Asset Save: mat_red
+[2023.12.03-14.07.14:004][824]LogContentValidation: Display: Validating Material /Game/Materials/mat_red.mat_red
+[2023.12.03-14.07.14:021][824]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.07.14:115][825]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.TutorialMaterial
+[2023.12.03-14.07.14:118][825]LogMaterial: Display: Missing cached shadermap for TutorialMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 38CC05B0872EACA4AF001E0F007A544E7C9728CE), compiling. 
+[2023.12.03-14.07.14:157][825]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.12.03-14.07.14:161][825]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2023.12.03-14.07.14:161][825]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.07.14:313][825]LogMaterial: Display: Missing cached shadermap for TutorialMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D0889A75A3D8D7C0BBD6E49E6A94A941270304C1), compiling. 
+[2023.12.03-14.07.14:322][825]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.12.03-14.07.15:065][826]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.07.15:066][826]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2023.12.03-14.07.15:066][826]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.07.15:066][826]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2023.12.03-14.07.15:076][826]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.07.17:555][948]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2023.12.03-14.07.17:555][948]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.07.17:597][949]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.07.17:707][954]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2023.12.03-14.07.17:707][954]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.07.17:748][955]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.03-14.07.17:748][955]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.03-14.07.17:748][955]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.07.17:748][955]MaterialEditorStats: Texture samplers: 3/16
+[2023.12.03-14.07.21:122][ 89]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2023.12.03-14.07.21:122][ 89]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.07.22:853][151]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.03-14.07.22:853][151]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.03-14.07.22:853][151]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.07.22:853][151]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.07.34:852][211]LogMaterial: Display: Missing cached shadermap for TutorialMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 2F4DC9F72438C583E969FE78BCEEAB3F45BF6A2D), compiling. 
+[2023.12.03-14.07.34:860][211]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.07.34:915][213]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.03-14.07.34:915][213]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.03-14.07.34:915][213]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.07.34:915][213]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.07.36:568][272]LogMaterial: Display: Missing cached shadermap for TutorialMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3C78E2905070084D256082F497A13730067B3FD4), compiling. 
+[2023.12.03-14.07.36:573][272]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.07.36:647][274]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.07.36:670][275]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.03-14.07.36:670][275]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.03-14.07.36:670][275]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.07.36:670][275]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.07.47:358][165]LogMaterial: Display: Missing cached shadermap for TutorialMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 5AA6F0542107B8CB8C28759FD7850C9F412844BF), compiling. 
+[2023.12.03-14.07.47:365][165]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.07.47:414][167]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.07.47:437][168]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.03-14.07.47:437][168]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.03-14.07.47:437][168]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.07.47:437][168]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.07.49:098][231]LogMaterial: Display: Missing cached shadermap for TutorialMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D4089353933D5EFBF54A4077A0DC1153D36C56CB), compiling. 
+[2023.12.03-14.07.49:101][231]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.07.49:153][233]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.07.49:175][234]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.03-14.07.49:175][234]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.03-14.07.49:175][234]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.07.49:175][234]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.08.57:879][311]LogMaterial: Display: Missing cached shadermap for TutorialMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: C93403A2E476C02D3CBAB5E985E7C10FB0F1F963), compiling. 
+[2023.12.03-14.08.59:608][378]LogMaterial: Display: Missing cached shadermap for TutorialMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3DFD419A3F343E9419CA01180BBDC9D404B92F8F), compiling. 
+[2023.12.03-14.08.59:611][378]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.08.59:668][380]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.08.59:689][381]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.03-14.08.59:689][381]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.03-14.08.59:690][381]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.08.59:690][381]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.09.32:294][981]LogMaterial: Display: Missing cached shadermap for TutorialMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 534624D6E1302D671A3256615D2C5F88B05420A8), compiling. 
+[2023.12.03-14.09.32:317][982]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.09.32:317][982]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.12.03-14.09.32:317][982]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.12.03-14.09.32:317][982]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.09.32:336][983]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.12.03-14.09.32:355][984]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2023.12.03-14.09.32:356][984]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.09.32:389][986]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.09.33:891][ 41]LogMaterial: Display: Missing cached shadermap for TutorialMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: DB22AA90D0AA6F961C60CE80C3A0CB012C654C2D), compiling. 
+[2023.12.03-14.09.33:952][ 42]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.03-14.09.33:952][ 42]LogShaderCompilers: Display: Total job queries 430, among them cache hits 300 (69.77%)
+[2023.12.03-14.09.33:952][ 42]LogShaderCompilers: Display: Tracking 64 distinct input hashes that result in 29 distinct outputs (45.31%)
+[2023.12.03-14.09.33:953][ 42]LogShaderCompilers: Display: RAM used: 0.14 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.03%
+[2023.12.03-14.09.33:953][ 42]LogShaderCompilers: Display: ================================================
+[2023.12.03-14.09.33:965][ 43]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.09.33:992][ 44]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.03-14.09.33:992][ 44]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.03-14.09.33:992][ 44]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.09.33:992][ 44]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.11.30:581][ 42]LogSlate: Window 'Message' being destroyed
+[2023.12.03-14.11.30:589][ 42]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Engine/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.TutorialMaterial
+(Selecting 'No' will cause all changes to be lost!)
+[2023.12.03-14.11.30:616][ 42]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.12.03-14.11.30:617][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.03-14.12.21:108][963]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ball_01.BP_Ball_01
+[2023.12.03-14.12.53:718][197]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.12.03-14.12.53:718][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.03-14.14.17:391][854]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 08A0420D20A1006F7A466E38EA7EA5332AD3856A), compiling. 
+[2023.12.03-14.14.17:395][854]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 379719028D7AFE457EB2D82B7E642A182F429975), compiling. 
+[2023.12.03-14.14.17:398][854]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.14.17:455][856]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.14.17:469][856]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.12.03-14.14.17:469][856]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.12.03-14.14.17:469][856]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.14.17:469][856]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.03-14.14.17:469][856]LogShaderCompilers: Display: Total job queries 446, among them cache hits 314 (70.40%)
+[2023.12.03-14.14.17:469][856]LogShaderCompilers: Display: Tracking 69 distinct input hashes that result in 29 distinct outputs (42.03%)
+[2023.12.03-14.14.17:469][856]LogShaderCompilers: Display: RAM used: 0.14 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.03%
+[2023.12.03-14.14.17:469][856]LogShaderCompilers: Display: ================================================
+[2023.12.03-14.14.17:484][857]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.14.17:533][858]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.03-14.14.17:533][858]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.03-14.14.17:533][858]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.14.17:533][858]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.14.32:739][474]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 465822D5D3ABB722413DE3A6EF54F28E48EEC4AE), compiling. 
+[2023.12.03-14.14.32:742][474]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8F027A323C7DC4F381C48C1A5F213DE9756B5DDC), compiling. 
+[2023.12.03-14.14.32:747][474]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.14.32:815][477]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.03-14.14.32:815][477]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.03-14.14.32:815][477]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.14.32:815][477]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.14.34:861][554]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 3A046B2BF2FC79770BB3C2CF265F942509F13AAB), compiling. 
+[2023.12.03-14.14.34:864][554]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6C87B3673141068924271192009A95E0A755D734), compiling. 
+[2023.12.03-14.14.34:868][554]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.14.34:928][556]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.14.34:958][557]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.03-14.14.34:958][557]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.03-14.14.34:958][557]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.14.34:958][557]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.14.36:129][592]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: BB944C5C688DB10C6D3C3C39E38DBA42209BFBBF), compiling. 
+[2023.12.03-14.14.36:133][592]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0A70839C0D8F8A97B0B8EC91FDC8D747AC8CE75C), compiling. 
+[2023.12.03-14.14.36:136][592]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.03-14.14.36:146][592]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.14.36:221][595]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.03-14.14.36:221][595]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.03-14.14.36:221][595]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.14.36:221][595]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.14.41:284][785]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 5A51DF8DD658BE714030A00856C9A721575DD31B), compiling. 
+[2023.12.03-14.14.41:288][785]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B0F5148B56E6B369CBFF29B5857939421D6465FC), compiling. 
+[2023.12.03-14.14.41:292][785]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.14.41:377][788]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.03-14.14.41:377][788]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.03-14.14.41:377][788]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.14.41:377][788]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.14.42:369][818]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 4A1A1514937956A032A6992E63EB1C4DBBBE763B), compiling. 
+[2023.12.03-14.14.42:372][818]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A9C9BC8370124CFF7B27EE067D647D58472978DA), compiling. 
+[2023.12.03-14.14.42:377][818]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.03-14.14.42:386][818]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.14.42:448][820]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.14.42:499][822]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.03-14.14.42:499][822]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.03-14.14.42:499][822]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.14.42:500][822]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.14.45:327][911]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.03-14.14.50:660][124]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: CDF18601917755AD80522AEC737E600C77D67873), compiling. 
+[2023.12.03-14.14.50:664][124]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5BD5635ADBF65B33ECC13A3FEC956038CE9DDCC7), compiling. 
+[2023.12.03-14.14.50:667][124]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.14.50:732][126]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.14.50:759][127]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.12.03-14.14.50:760][127]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.12.03-14.14.50:760][127]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.14.50:760][127]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.14.51:785][167]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 1DD87BC46093A6F0030F6CF39988F78E59521543), compiling. 
+[2023.12.03-14.14.51:791][167]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2D930DE8F247D8D3D1B0AEF9D4E14DB4FEDA579B), compiling. 
+[2023.12.03-14.14.51:794][167]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.14.51:808][169]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.14.51:811][169]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.12.03-14.14.51:811][169]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.12.03-14.14.51:811][169]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.14.51:828][169]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.12.03-14.14.51:835][169]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2023.12.03-14.14.51:835][169]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.14.51:848][169]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.14.52:715][209]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 249D8474A01F348B19F867ECBB484C872B569289), compiling. 
+[2023.12.03-14.14.52:723][209]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 914400712C0FA99C6C068FB5A5E18DDD8B1BBF58), compiling. 
+[2023.12.03-14.14.52:766][211]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2023.12.03-14.14.52:786][211]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.14.53:934][246]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2023.12.03-14.14.53:934][246]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.14.54:512][263]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2023.12.03-14.14.54:512][263]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.14.54:553][264]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.14.55:525][294]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2023.12.03-14.14.55:525][294]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.14.56:133][312]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2023.12.03-14.14.56:133][312]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.14.58:206][389]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 76C799633CD832C9B0B503C646F9295AB3D98873), compiling. 
+[2023.12.03-14.14.58:212][389]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 85E62B0C69E52EF45C268B4F661EA511BD08C61A), compiling. 
+[2023.12.03-14.14.58:219][389]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.14.58:233][390]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.14.58:271][391]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.12.03-14.14.58:296][391]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.14.59:248][420]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2023.12.03-14.14.59:248][420]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.14.59:785][441]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2023.12.03-14.14.59:801][442]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.15.00:817][501]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2023.12.03-14.15.00:817][501]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.15.02:547][602]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2023.12.03-14.15.02:547][602]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.15.02:695][610]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2023.12.03-14.15.02:695][610]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.15.03:002][627]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2023.12.03-14.15.03:002][627]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.15.05:080][747]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: 35DC2C296409F9F37DCAEDCE0E3084AD181E07B2), compiling. 
+[2023.12.03-14.15.05:086][747]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9AC214E5B76A65C060F27FE39F766B7F21AD0703), compiling. 
+[2023.12.03-14.15.05:116][749]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.15.05:146][749]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.12.03-14.15.05:169][749]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.15.07:162][809]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: E4A1DDE8D9FC913C4B122332C4C8BF67902F8132), compiling. 
+[2023.12.03-14.15.07:167][809]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: FE8D8D57B9B113C8D3D38E595E29F0D2A36D9E34), compiling. 
+[2023.12.03-14.15.07:171][809]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.03-14.15.07:202][811]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.15.07:238][811]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.12.03-14.15.07:269][811]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.15.07:701][826]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2023.12.03-14.15.07:701][826]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.15.07:998][834]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2023.12.03-14.15.07:998][834]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.15.10:533][924]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.12.03-14.15.10:533][924]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.15.10:820][935]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2023.12.03-14.15.10:820][935]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.15.10:860][936]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.15.12:128][981]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2023.12.03-14.15.12:128][981]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.15.12:981][ 11]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2023.12.03-14.15.12:981][ 11]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.15.17:911][187]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2023.12.03-14.15.17:911][187]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.15.20:180][276]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.12.03-14.15.20:180][276]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.12.03-14.15.20:180][276]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.15.20:180][276]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.16.49:646][641]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/mat_green.mat_green
+[2023.12.03-14.16.49:651][641]LogMaterial: Display: Missing cached shadermap for mat_green in PCD3D_SM5, Default, SM5 (DDC key hash: 51EB66237AFBB47BBE2FAE3D1046AA1AE56C00F7), compiling. 
+[2023.12.03-14.16.49:710][641]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.12.03-14.16.49:817][641]LogMaterial: Display: Missing cached shadermap for mat_green in PCD3D_SM5, Default, SM5 (DDC key hash: 91ACC5C688BE4336650B85B44B80D9BB0CE38A4F), compiling. 
+[2023.12.03-14.16.49:821][641]LogMaterial: Display: Missing cached shadermap for mat_green in PCD3D_SM5, Default, SM5 (DDC key hash: 8ABB729A946E0E3742D11DD47F8E6B8634F23684), compiling. 
+[2023.12.03-14.16.49:834][641]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.16.49:925][642]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.16.49:925][642]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.12.03-14.16.49:925][642]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.12.03-14.16.49:925][642]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.16.49:925][642]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.12.03-14.16.49:963][643]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2023.12.03-14.16.49:963][643]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.16.53:393][754]LogMaterial: Display: Missing cached shadermap for mat_green in PCD3D_SM5, Default, SM5 (DDC key hash: 82E3F9440EFB226364D8BCD35167D842C43D1401), compiling. 
+[2023.12.03-14.16.53:403][754]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8CF02872D36BA6779D948A9F861FB6765068DAA6), compiling. 
+[2023.12.03-14.16.53:486][756]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2023.12.03-14.16.53:618][759]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2023.12.03-14.16.53:619][759]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.16.55:024][815]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2023.12.03-14.16.55:024][815]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.16.55:077][816]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.16.57:390][914]LogMaterial: Display: Missing cached shadermap for mat_green in PCD3D_SM5, Default, SM5 (DDC key hash: 82249C47352AF5DF977EE22758F05B533A2C62F5), compiling. 
+[2023.12.03-14.16.57:403][914]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 11BAB013EA66DCCE23FC9101E0A65E8DF19809A4), compiling. 
+[2023.12.03-14.16.57:414][914]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.16.57:491][915]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.12.03-14.16.57:631][917]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.16.59:710][995]LogMaterial: Display: Missing cached shadermap for mat_green in PCD3D_SM5, Default, SM5 (DDC key hash: FC11FCC98AC41B0A776E92D87DA7BB2C908BB169), compiling. 
+[2023.12.03-14.16.59:716][995]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A39EA85B00B9FDF859592665142F3E0DC5FEBFC5), compiling. 
+[2023.12.03-14.16.59:723][995]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.16.59:792][997]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.12.03-14.16.59:837][997]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.17.00:719][ 26]LogMaterial: Display: Missing cached shadermap for mat_green in PCD3D_SM5, Default, SM5 (DDC key hash: 6F5A3C42508D90F228508BB26F8991D361CAEA74), compiling. 
+[2023.12.03-14.17.00:728][ 26]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 64B3C45E2E98F0B9BFC44904E71DBC1DC17684F2), compiling. 
+[2023.12.03-14.17.00:739][ 26]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.17.00:778][ 28]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.17.00:807][ 28]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.12.03-14.17.00:840][ 28]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.17.01:488][ 44]LogMaterial: Display: Missing cached shadermap for mat_green in PCD3D_SM5, Default, SM5 (DDC key hash: 10431908B4FB0A284DC048C18206D8E7A372A3CF), compiling. 
+[2023.12.03-14.17.01:495][ 44]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1AD77612E0B7B247A6536B8D79C48984C7FDBE81), compiling. 
+[2023.12.03-14.17.01:501][ 44]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.03-14.17.01:543][ 46]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.17.01:604][ 46]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.12.03-14.17.01:635][ 46]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.17.02:991][ 81]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2023.12.03-14.17.02:991][ 81]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.17.03:310][ 88]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2023.12.03-14.17.03:310][ 88]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.17.03:785][100]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2023.12.03-14.17.03:786][100]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.17.03:787][100]LogMaterialEditor: Applying material mat_green
+[2023.12.03-14.17.05:901][100]LogMaterial: Display: Missing cached shadermap for mat_green in PCD3D_SM5, Default, SM5 (DDC key hash: 691CCAFA90710ECBE006E9AE8D677821A37553FC), compiling. 
+[2023.12.03-14.17.06:002][100]LogMaterial: Display: Missing cached shadermap for mat_green in PCD3D_SM5, Default, SM5 (DDC key hash: 30FE02B8718ED611A09714F5D64143B3FF2621D9), compiling. 
+[2023.12.03-14.17.06:213][100]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.12.03-14.17.06:213][100]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2023.12.03-14.17.06:213][100]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.17.06:240][100]LogUObjectHash: Compacting FUObjectHashTables data took  18.58ms
+[2023.12.03-14.17.06:265][100]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.17.10:905][100]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.12.03-14.17.10:905][100]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.17.10:906][100]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2023.12.03-14.17.10:906][100]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.17.10:906][100]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2023.12.03-14.17.10:906][100]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.17.10:906][100]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2023.12.03-14.17.10:906][100]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.17.10:917][100]LogUObjectHash: Compacting FUObjectHashTables data took  10.10ms
+[2023.12.03-14.17.11:039][102]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2023.12.03-14.17.11:039][102]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2023.12.03-14.17.11:039][102]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2023.12.03-14.17.11:039][102]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.17.11:089][102]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.17.12:855][152]LogMaterialEditor: Applying material mat_red
+[2023.12.03-14.17.14:729][152]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2023.12.03-14.17.14:729][152]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.17.14:805][152]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: A24F69E4D86068130BABA48205C39BB3CB06DD25), compiling. 
+[2023.12.03-14.17.14:903][152]LogMaterial: Display: Missing cached shadermap for mat_red in PCD3D_SM5, Default, SM5 (DDC key hash: B1BA6FCD3B72A974B323FDBA32B6CE130EEEC3E4), compiling. 
+[2023.12.03-14.17.15:036][152]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2023.12.03-14.17.15:083][152]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.17.15:858][152]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.12.03-14.17.15:858][152]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.17.15:859][152]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2023.12.03-14.17.15:878][152]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.17.16:020][154]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2023.12.03-14.17.16:020][154]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2023.12.03-14.17.16:020][154]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2023.12.03-14.17.16:020][154]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.17.16:143][154]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.17.17:525][202]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2023.12.03-14.17.17:525][202]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.17.17:549][202]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.03-14.17.17:549][202]LogShaderCompilers: Display: Total job queries 761, among them cache hits 476 (62.55%)
+[2023.12.03-14.17.17:549][202]LogShaderCompilers: Display: Tracking 133 distinct input hashes that result in 62 distinct outputs (46.62%)
+[2023.12.03-14.17.17:549][202]LogShaderCompilers: Display: RAM used: 0.32 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.08%
+[2023.12.03-14.17.17:549][202]LogShaderCompilers: Display: ================================================
+[2023.12.03-14.17.17:572][203]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.12.03-14.17.17:573][203]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.12.03-14.17.17:573][203]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.17.17:573][203]MaterialEditorStats: Texture samplers: 3/16
+[2023.12.03-14.17.18:426][229]LogMaterialEditor: Saving and Compiling material mat_green
+[2023.12.03-14.17.18:572][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/mat_green" FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Materials/mat_green.uasset" SILENT=true
+[2023.12.03-14.17.18:602][229]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/mat_green3675F4D24F6C78E1D93702B7DAE48C04.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Materials/mat_green.uasset'
+[2023.12.03-14.17.18:838][229]AssetCheck: New page: Asset Save: mat_green
+[2023.12.03-14.17.18:838][229]LogContentValidation: Display: Validating Material /Game/Materials/mat_green.mat_green
+[2023.12.03-14.17.19:981][262]LogMaterialEditor: Saving and Compiling material mat_red
+[2023.12.03-14.17.21:419][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/mat_red" FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Materials/mat_red.uasset" SILENT=true
+[2023.12.03-14.17.21:436][262]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/mat_redF91CC9964984B9831E8C9F83D27476F1.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Materials/mat_red.uasset'
+[2023.12.03-14.17.21:478][262]AssetCheck: New page: Asset Save: mat_red
+[2023.12.03-14.17.21:478][262]LogContentValidation: Display: Validating Material /Game/Materials/mat_red.mat_red
+[2023.12.03-14.17.21:479][262]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.12.03-14.17.21:479][262]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.12.03-14.17.21:479][262]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.17.21:479][262]MaterialEditorStats: Texture samplers: 3/16
+[2023.12.03-14.17.22:760][301]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.12.03-14.17.22:760][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.03-14.17.23:286][322]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.12.03-14.17.23:286][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.03-14.17.27:293][407]LogSlate: Window 'Message' being destroyed
+[2023.12.03-14.17.27:301][407]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+(Selecting 'No' will cause all changes to be lost!)
+[2023.12.03-14.17.27:985][407]LogMaterial: Display: Missing cached shadermap for BasicShapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A5B8B8A7ACC512243FF5F5F7854BEF01BC1010A0), compiling. 
+[2023.12.03-14.17.28:026][407]LogMaterial: Display: Missing cached shadermap for BasicShapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 729EF3727A0C1F16EEBAE64953411C4B1268D878), compiling. 
+[2023.12.03-14.17.28:367][407]LogShaderCompilers: Display: Submitted 63 shader compile jobs with 'Normal' priority
+[2023.12.03-14.17.28:373][407]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 63
+[2023.12.03-14.17.28:373][407]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 53
+[2023.12.03-14.17.28:373][407]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 43
+[2023.12.03-14.17.28:373][407]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.17.28:423][407]LogUObjectHash: Compacting FUObjectHashTables data took   7.52ms
+[2023.12.03-14.17.37:756][407]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2023.12.03-14.17.37:757][407]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.17.37:763][407]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2023.12.03-14.17.38:690][407]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2023.12.03-14.17.38:691][407]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.17.38:691][407]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.12.03-14.17.38:691][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.03-14.17.39:142][418]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2023.12.03-14.17.39:142][418]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.17.41:496][470]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.12.03-14.17.41:497][470]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.12.03-14.17.41:497][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.03-14.17.55:582][778]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2023.12.03-14.17.55:582][778]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.17.56:604][786]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2023.12.03-14.17.56:604][786]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.18.08:896][201]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2023.12.03-14.18.08:897][201]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.18.08:898][201]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.12.03-14.18.08:898][201]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.18.17:849][442]LogUObjectHash: Compacting FUObjectHashTables data took   7.24ms
+[2023.12.03-14.18.17:854][442]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level01' took 0.089
+[2023.12.03-14.18.17:856][442]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/BasicShapes/BasicShapeMaterial] ([1] browsable assets)...
+[2023.12.03-14.18.17:944][442]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial]
+[2023.12.03-14.18.17:944][442]OBJ SavePackage: Finished generating thumbnails for package [/Engine/BasicShapes/BasicShapeMaterial]
+[2023.12.03-14.18.17:973][442]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/BasicShapeMaterial_Auto3BF6F3AA84ED8740F09FE0D8141796B84.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/Autosaves/Engine/BasicShapes/BasicShapeMaterial_Auto3.uasset'
+[2023.12.03-14.18.17:978][442]LogFileHelpers: Auto-saving content packages took 0.123
+[2023.12.03-14.18.45:029][760]LogEditorViewport: Clicking on Actor (LMB): BP_Cone_01_C (BP_Cone_01)
+[2023.12.03-14.18.50:362][952]LogEditorViewport: Clicking Background
+[2023.12.03-14.18.51:264][996]LogEditorViewport: Clicking on Actor (LMB): BP_Cone_01_C (BP_Cone_01)
+[2023.12.03-14.18.53:689][ 60]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/mat_red.mat_red
+[2023.12.03-14.18.53:694][ 60]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 48F7EF8A794D4498A20189F6D9EC94FC7F1AB685), compiling. 
+[2023.12.03-14.18.53:755][ 60]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.12.03-14.18.53:936][ 60]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 69BAD814459F85242238A23A297A339F7DCA01B2), compiling. 
+[2023.12.03-14.18.53:944][ 60]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 11F581E9885FA50E3966414E1E71A36A34BE6557), compiling. 
+[2023.12.03-14.18.53:950][ 60]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 67232C9E5D1D6362792B012F6FD52B6E519F6CD1), compiling. 
+[2023.12.03-14.18.53:974][ 60]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.18.54:219][ 61]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.18.54:219][ 61]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.12.03-14.18.54:219][ 61]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.12.03-14.18.54:219][ 61]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.18.54:219][ 61]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.12.03-14.18.54:220][ 61]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2023.12.03-14.18.54:220][ 61]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.18.59:567][184]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2023.12.03-14.18.59:567][184]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.19.01:322][224]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2023.12.03-14.19.01:322][224]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.19.01:370][225]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.19.05:712][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level01" FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Maps/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.03-14.19.05:888][332]LogUObjectHash: Compacting FUObjectHashTables data took  18.18ms
+[2023.12.03-14.19.06:023][332]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/Level01B26CF8D144A5556174A0A1BC97216CE9.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Maps/Level01.umap'
+[2023.12.03-14.19.08:314][332]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.12.03-14.19.08:314][332]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.19.08:389][332]AssetCheck: New page: Asset Save: Level01
+[2023.12.03-14.19.08:389][332]LogContentValidation: Display: Validating World /Game/Maps/Level01.Level01
+[2023.12.03-14.19.15:221][533]LogMaterialEditor: Saving and Compiling material mat_red
+[2023.12.03-14.19.15:268][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/mat_red" FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Materials/mat_red.uasset" SILENT=true
+[2023.12.03-14.19.15:274][533]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/mat_red4D86FBD84A797B5B0A1AD18DEC2EC06C.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Materials/mat_red.uasset'
+[2023.12.03-14.19.15:304][533]AssetCheck: New page: Asset Save: mat_red
+[2023.12.03-14.19.15:304][533]LogContentValidation: Display: Validating Material /Game/Materials/mat_red.mat_red
+[2023.12.03-14.19.15:305][533]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.12.03-14.19.15:306][533]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.12.03-14.19.15:306][533]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.19.15:306][533]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.19.18:572][627]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/mat_green.mat_green
+[2023.12.03-14.19.18:577][627]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F56DE4DD13A6205B6D3A76F93ED1C1B36079A8BF), compiling. 
+[2023.12.03-14.19.18:639][627]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.12.03-14.19.18:835][627]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D1DBFC2A15BE82D8C61AA487A4874B5E9C563AFC), compiling. 
+[2023.12.03-14.19.18:844][627]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6522D1F824C0746E313FAAD0B81A3F0733F2588F), compiling. 
+[2023.12.03-14.19.18:851][627]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9DA8A760D0EE23962FBE280ADEA09A245EA3DB77), compiling. 
+[2023.12.03-14.19.18:885][627]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.03-14.19.19:160][628]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.19.19:160][628]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.12.03-14.19.19:161][628]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.12.03-14.19.19:161][628]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.12.03-14.19.19:242][629]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.12.03-14.19.19:242][629]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2023.12.03-14.19.19:242][629]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.19.20:296][654]LogMaterialEditor: Saving and Compiling material mat_green
+[2023.12.03-14.19.20:356][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/mat_green" FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Materials/mat_green.uasset" SILENT=true
+[2023.12.03-14.19.20:365][654]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/mat_green93DEAA3843B8866E6E1AE4831266FECB.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Materials/mat_green.uasset'
+[2023.12.03-14.19.21:845][654]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2023.12.03-14.19.21:845][654]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.19.21:845][654]AssetCheck: New page: Asset Save: mat_green
+[2023.12.03-14.19.21:845][654]LogContentValidation: Display: Validating Material /Game/Materials/mat_green.mat_green
+[2023.12.03-14.19.23:341][690]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2023.12.03-14.19.23:341][690]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.19.23:361][690]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.19.34:393][972]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.12.03-14.19.34:393][972]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.12.03-14.19.40:376][157]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.12.03-14.19.40:376][157]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.12.03-14.19.40:376][157]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.12.03-14.19.40:377][157]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.03-14.19.50:620][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level01" FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Maps/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.03-14.19.50:726][537]LogUObjectHash: Compacting FUObjectHashTables data took  15.55ms
+[2023.12.03-14.19.50:811][537]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/Level01E2731CDA4BAB0353573228B4B9304C83.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Maps/Level01.umap'
+[2023.12.03-14.19.50:867][537]AssetCheck: New page: Asset Save: Level01
+[2023.12.03-14.19.50:867][537]LogContentValidation: Display: Validating World /Game/Maps/Level01.Level01
+[2023.12.03-14.20.07:214][252]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Cone_01.BP_Cone_01
+[2023.12.03-14.21.09:967][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level01" FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Maps/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.03-14.21.10:069][729]LogUObjectHash: Compacting FUObjectHashTables data took   9.06ms
+[2023.12.03-14.21.10:154][729]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/Level01FBDD2B2847F30F9E38CAA1A0B0405DA1.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Maps/Level01.umap'
+[2023.12.03-14.21.10:209][729]AssetCheck: New page: Asset Save: Level01
+[2023.12.03-14.21.10:209][729]LogContentValidation: Display: Validating World /Game/Maps/Level01.Level01
+[2023.12.03-14.21.14:346][892]LogUObjectHash: Compacting FUObjectHashTables data took   6.98ms
+[2023.12.03-14.21.14:400][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2023.12.03-14.21.14:421][892]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/BasicShapeMaterial0A40FA464188DDD321D42692F7932E56.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2023.12.03-14.21.14:530][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball_01" FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Blueprints/BP_Ball_01.uasset" SILENT=true
+[2023.12.03-14.21.14:568][892]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/BP_Ball_0147AAAEFB4FA0C990B08A80A042E2DF7D.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Blueprints/BP_Ball_01.uasset'
+[2023.12.03-14.21.14:667][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Cone_01" FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Blueprints/BP_Cone_01.uasset" SILENT=true
+[2023.12.03-14.21.14:725][892]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/BP_Cone_01A13FD3B942133989A0B92B9AEF93D9CA.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Blueprints/BP_Cone_01.uasset'
+[2023.12.03-14.21.14:768][892]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.03-14.21.14:768][892]LogContentValidation: Display: Validating Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2023.12.03-14.21.14:768][892]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Cone_01.BP_Cone_01
+[2023.12.03-14.21.14:769][892]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Ball_01.BP_Ball_01
+[2023.12.03-14.23.45:212][236]LogUObjectHash: Compacting FUObjectHashTables data took  11.42ms
+[2023.12.03-14.23.45:277][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level01" FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Maps/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.03-14.23.45:364][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.12.03-14.23.45:440][236]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/Level01488EB2F44C743951E4469EA0755A1328.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Maps/Level01.umap'
+[2023.12.03-14.23.45:459][236]LogFileHelpers: Saving map 'Level01' took 0.185
+[2023.12.03-14.23.45:560][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Cone_01" FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Blueprints/BP_Cone_01.uasset" SILENT=true
+[2023.12.03-14.23.45:604][236]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/BP_Cone_0188F740F242DC17F7DF1B4DB15337F0AF.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Blueprints/BP_Cone_01.uasset'
+[2023.12.03-14.23.45:644][236]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.03-14.23.45:644][236]LogContentValidation: Display: Validating World /Game/Maps/Level01.Level01
+[2023.12.03-14.23.45:644][236]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Cone_01.BP_Cone_01
+[2023.12.03-14.27.26:289][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2023.12.03-14.27.27:514][787]Cmd: DELETE
+[2023.12.03-14.27.27:514][787]Cmd: ACTOR DELETE
+[2023.12.03-14.27.27:522][787]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.03-14.27.27:665][787]LogUObjectHash: Compacting FUObjectHashTables data took  22.07ms
+[2023.12.03-14.27.27:698][787]LogEditorActor: Deleted 1 Actors (0.183 secs)
+[2023.12.03-14.27.39:192][123]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ball_01.BP_Ball_01
+[2023.12.03-14.27.49:970][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball_01" FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Blueprints/BP_Ball_01.uasset" SILENT=true
+[2023.12.03-14.27.49:997][256]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/BP_Ball_014BE7AAF542DA1AA39548FB96EC389E9E.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Blueprints/BP_Ball_01.uasset'
+[2023.12.03-14.27.50:040][256]AssetCheck: New page: Asset Save: BP_Ball_01
+[2023.12.03-14.27.50:040][256]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Ball_01.BP_Ball_01
+[2023.12.03-14.27.53:317][306]LogSlate: Window 'BP_Ball_01' being destroyed
+[2023.12.03-14.27.53:362][306]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.12.03-14.27.53:363][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.03-14.27.56:886][409]LogUObjectHash: Compacting FUObjectHashTables data took   8.95ms
+[2023.12.03-14.27.56:950][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level01" FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Maps/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.03-14.27.57:043][409]LogUObjectHash: Compacting FUObjectHashTables data took   7.00ms
+[2023.12.03-14.27.57:120][409]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/Level01CF1C931048CC82277C01E0AEBBE61FF0.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Maps/Level01.umap'
+[2023.12.03-14.27.57:137][409]LogFileHelpers: Saving map 'Level01' took 0.188
+[2023.12.03-14.27.57:174][409]AssetCheck: New page: Asset Save: Level01
+[2023.12.03-14.27.57:174][409]LogContentValidation: Display: Validating World /Game/Maps/Level01.Level01
+[2023.12.03-14.29.42:649][816]EditorErrors: New page: Actor attachment
+[2023.12.03-14.29.44:491][847]Cmd: TRANSACTION UNDO
+[2023.12.03-14.29.44:491][847]LogEditorTransaction: Undo Attach actors
+[2023.12.03-14.29.44:619][847]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 40C31F52D69A6EB7083B21C782B2BC53F5A2BA20), compiling. 
+[2023.12.03-14.29.44:661][847]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: CB042AF30E016410768AED3CBE399D76EC78C7DF), compiling. 
+[2023.12.03-14.29.45:042][849]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.03-14.29.45:042][849]LogShaderCompilers: Display: Total job queries 921, among them cache hits 533 (57.87%)
+[2023.12.03-14.29.45:042][849]LogShaderCompilers: Display: Tracking 221 distinct input hashes that result in 113 distinct outputs (51.13%)
+[2023.12.03-14.29.45:043][849]LogShaderCompilers: Display: RAM used: 0.60 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.15%
+[2023.12.03-14.29.45:043][849]LogShaderCompilers: Display: ================================================
+[2023.12.03-14.30.05:853][272]LogUObjectHash: Compacting FUObjectHashTables data took   9.40ms
+[2023.12.03-14.30.05:914][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level01" FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Maps/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.03-14.30.06:003][272]LogUObjectHash: Compacting FUObjectHashTables data took   6.95ms
+[2023.12.03-14.30.06:083][272]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/Level01DF734FE047DFA5105BC153A87BF10B4F.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Maps/Level01.umap'
+[2023.12.03-14.30.06:101][272]LogFileHelpers: Saving map 'Level01' took 0.189
+[2023.12.03-14.30.06:136][272]AssetCheck: New page: Asset Save: Level01
+[2023.12.03-14.30.06:136][272]LogContentValidation: Display: Validating World /Game/Maps/Level01.Level01
