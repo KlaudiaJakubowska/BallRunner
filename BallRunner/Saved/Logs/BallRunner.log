@@ -2736,3 +2736,379 @@ Scale3D: 1.000000 1.000000 1.000000
 [2024.05.05-14.17.35:177][  6]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2024.05.05-14.17.35:187][  6]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
 [2024.05.05-14.17.35:228][  7]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.05.05-14.22.44:552][340]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2024.05.05-14.22.44:623][340]LogLinker: Warning: [AssetLog] C:\Users\klaud\Documents\GitHub\BallRunner\BallRunner\Content\Levels\Level02.umap: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.22.44:624][340]LogLinker: Warning: [AssetLog] C:\Users\klaud\Documents\GitHub\BallRunner\BallRunner\Content\Levels\Level02.umap: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.22.44:643][340]LogLinker: Warning: [AssetLog] C:\Users\klaud\Documents\GitHub\BallRunner\BallRunner\Content\Levels\Level02.umap: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.22.44:644][340]LogLinker: Warning: [AssetLog] C:\Users\klaud\Documents\GitHub\BallRunner\BallRunner\Content\Levels\Level02.umap: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.22.44:645][340]LogLinker: Warning: [AssetLog] C:\Users\klaud\Documents\GitHub\BallRunner\BallRunner\Content\Levels\Level02.umap: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.22.44:645][340]LogLinker: Warning: [AssetLog] C:\Users\klaud\Documents\GitHub\BallRunner\BallRunner\Content\Levels\Level02.umap: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.22.44:647][340]LogLinker: Warning: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.22.44:647][340]LogLinker: Warning: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.22.44:648][340]LogLinker: Warning: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.22.44:648][340]LogLinker: Warning: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.22.44:649][340]LogLinker: Warning: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.22.44:655][340]LogLinker: Warning: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.22.44:656][340]LogLinker: Warning: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.22.44:656][340]LogLinker: Warning: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.22.44:656][340]LogLinker: Warning: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.22.44:657][340]LogLinker: Warning: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.22.44:657][340]LogLinker: Warning: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.22.44:658][340]LogLinker: Warning: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.22.44:658][340]LogLinker: Warning: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.22.44:683][340]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level02.Level02
+[2024.05.05-14.22.44:683][340]Cmd: MAP LOAD FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Levels/Level02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.05.05-14.22.44:683][340]LightingResults: New page: Lighting Build
+[2024.05.05-14.22.44:683][340]LoadErrors: New page: Loading map: Level02.umap
+[2024.05.05-14.22.44:688][340]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-14.22.44:688][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-14.22.44:689][340]MapCheck: New page: Map Check
+[2024.05.05-14.22.44:689][340]LightingResults: New page: Lighting Build
+[2024.05.05-14.22.44:740][340]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.05-14.22.44:748][340]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2024.05.05-14.22.44:749][340]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level02'.
+[2024.05.05-14.22.44:764][340]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.05-14.22.44:765][340]LogAIModule: Creating AISystem for world Level02
+[2024.05.05-14.22.44:826][340]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2024.05.05-14.22.44:843][340]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.05-14.22.44:843][340]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,313ms to complete.
+[2024.05.05-14.22.44:843][340]LogFileHelpers: Loading map 'Level02' took 0.161
+[2024.05.05-14.22.44:872][340]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'trigger': BP_Cone_01_C /Game/Levels/Level02.Level02:PersistentLevel.BP_Cone_01_8
+[2024.05.05-14.22.44:872][340]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'trigger': BP_Cone_01_C /Game/Levels/Level02.Level02:PersistentLevel.BP_Cone_11
+[2024.05.05-14.22.44:873][340]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'trigger': BP_Cone_01_C /Game/Levels/Level02.Level02:PersistentLevel.BP_Cone_14
+[2024.05.05-14.22.44:873][340]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'trigger': BP_Cone_01_C /Game/Levels/Level02.Level02:PersistentLevel.BP_Cone_17
+[2024.05.05-14.22.44:873][340]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cone': BP_Cone_01_C /Game/Levels/Level02.Level02:PersistentLevel.BP_Cone_01_8
+[2024.05.05-14.22.44:873][340]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cone': BP_Cone_01_C /Game/Levels/Level02.Level02:PersistentLevel.BP_Cone_11
+[2024.05.05-14.22.44:873][340]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cone': BP_Cone_01_C /Game/Levels/Level02.Level02:PersistentLevel.BP_Cone_14
+[2024.05.05-14.22.44:873][340]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cone': BP_Cone_01_C /Game/Levels/Level02.Level02:PersistentLevel.BP_Cone_17
+[2024.05.05-14.22.44:873][340]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'conechangelocation': BP_Cone_01_C /Game/Levels/Level02.Level02:PersistentLevel.BP_Cone_01_8
+[2024.05.05-14.22.44:873][340]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'conechangelocation': BP_Cone_01_C /Game/Levels/Level02.Level02:PersistentLevel.BP_Cone_11
+[2024.05.05-14.22.44:873][340]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'conechangelocation': BP_Cone_01_C /Game/Levels/Level02.Level02:PersistentLevel.BP_Cone_14
+[2024.05.05-14.22.44:873][340]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'conechangelocation': BP_Cone_01_C /Game/Levels/Level02.Level02:PersistentLevel.BP_Cone_17
+[2024.05.05-14.22.56:979][721]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2024.05.05-14.23.30:941][720]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.05.05-14.24.32:044][ 83]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ball_01.BP_Ball_01
+[2024.05.05-14.25.38:343][469]LogUObjectHash: Compacting FUObjectHashTables data took   8.61ms
+[2024.05.05-14.25.38:371][469]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level02.Level02
+[2024.05.05-14.25.38:372][469]Cmd: MAP LOAD FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Levels/Level02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.05.05-14.25.38:372][469]LightingResults: New page: Lighting Build
+[2024.05.05-14.25.38:372][469]LoadErrors: New page: Loading map: Level02.umap
+[2024.05.05-14.25.38:377][469]LogWorld: UWorld::CleanupWorld for Level02, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-14.25.38:377][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-14.25.38:377][469]MapCheck: New page: Map Check
+[2024.05.05-14.25.38:377][469]LightingResults: New page: Lighting Build
+[2024.05.05-14.25.38:441][469]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.05-14.25.38:462][469]LogUObjectHash: Compacting FUObjectHashTables data took   7.40ms
+[2024.05.05-14.25.38:467][469]LogLinker: Warning: [AssetLog] C:\Users\klaud\Documents\GitHub\BallRunner\BallRunner\Content\Levels\Level02.umap: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.25.38:468][469]LogLinker: Warning: [AssetLog] C:\Users\klaud\Documents\GitHub\BallRunner\BallRunner\Content\Levels\Level02.umap: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.25.38:469][469]LogLinker: Warning: [AssetLog] C:\Users\klaud\Documents\GitHub\BallRunner\BallRunner\Content\Levels\Level02.umap: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.25.38:470][469]LogLinker: Warning: [AssetLog] C:\Users\klaud\Documents\GitHub\BallRunner\BallRunner\Content\Levels\Level02.umap: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.25.38:471][469]LogLinker: Warning: [AssetLog] C:\Users\klaud\Documents\GitHub\BallRunner\BallRunner\Content\Levels\Level02.umap: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.25.38:472][469]LogLinker: Warning: [AssetLog] C:\Users\klaud\Documents\GitHub\BallRunner\BallRunner\Content\Levels\Level02.umap: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.25.38:474][469]LogLinker: Warning: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.25.38:474][469]LogLinker: Warning: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.25.38:475][469]LogLinker: Warning: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.25.38:475][469]LogLinker: Warning: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.25.38:475][469]LogLinker: Warning: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.25.38:483][469]LogLinker: Warning: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.25.38:484][469]LogLinker: Warning: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.25.38:484][469]LogLinker: Warning: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.25.38:484][469]LogLinker: Warning: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.25.38:485][469]LogLinker: Warning: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.25.38:485][469]LogLinker: Warning: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.25.38:486][469]LogLinker: Warning: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.25.38:486][469]LogLinker: Warning: Failed to load '/Game/Blueprints/Actors/Collectables/BP_Cone_01': Can't find file.
+[2024.05.05-14.25.38:495][469]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level02'.
+[2024.05.05-14.25.38:497][469]LogAIModule: Creating AISystem for world Level02
+[2024.05.05-14.25.38:513][469]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.05-14.25.38:592][469]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2024.05.05-14.25.38:606][469]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.05-14.25.38:606][469]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,422ms to complete.
+[2024.05.05-14.25.38:606][469]LogFileHelpers: Loading map 'Level02' took 0.235
+[2024.05.05-14.25.38:630][469]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'trigger': BP_Cone_01_C /Game/Levels/Level02.Level02:PersistentLevel.BP_Cone_01_8
+[2024.05.05-14.25.38:630][469]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'trigger': BP_Cone_01_C /Game/Levels/Level02.Level02:PersistentLevel.BP_Cone_11
+[2024.05.05-14.25.38:630][469]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'trigger': BP_Cone_01_C /Game/Levels/Level02.Level02:PersistentLevel.BP_Cone_14
+[2024.05.05-14.25.38:630][469]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'trigger': BP_Cone_01_C /Game/Levels/Level02.Level02:PersistentLevel.BP_Cone_17
+[2024.05.05-14.25.38:630][469]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cone': BP_Cone_01_C /Game/Levels/Level02.Level02:PersistentLevel.BP_Cone_01_8
+[2024.05.05-14.25.38:630][469]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cone': BP_Cone_01_C /Game/Levels/Level02.Level02:PersistentLevel.BP_Cone_11
+[2024.05.05-14.25.38:630][469]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cone': BP_Cone_01_C /Game/Levels/Level02.Level02:PersistentLevel.BP_Cone_14
+[2024.05.05-14.25.38:630][469]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cone': BP_Cone_01_C /Game/Levels/Level02.Level02:PersistentLevel.BP_Cone_17
+[2024.05.05-14.25.38:630][469]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'conechangelocation': BP_Cone_01_C /Game/Levels/Level02.Level02:PersistentLevel.BP_Cone_01_8
+[2024.05.05-14.25.38:630][469]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'conechangelocation': BP_Cone_01_C /Game/Levels/Level02.Level02:PersistentLevel.BP_Cone_11
+[2024.05.05-14.25.38:630][469]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'conechangelocation': BP_Cone_01_C /Game/Levels/Level02.Level02:PersistentLevel.BP_Cone_14
+[2024.05.05-14.25.38:630][469]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'conechangelocation': BP_Cone_01_C /Game/Levels/Level02.Level02:PersistentLevel.BP_Cone_17
+[2024.05.05-14.27.21:770][715]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/LvlTriggers/BPLvlTrigger01.BPLvlTrigger01
+[2024.05.05-14.27.23:266][762]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-14.27.23:266][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-14.27.24:264][815]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.05-14.27.24:264][815]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-14.27.24:265][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-14.27.24:760][839]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.05-14.27.24:760][839]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-14.27.24:760][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-14.27.37:059][547]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.05-14.27.37:060][547]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-14.27.37:060][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-14.27.43:724][786]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Volumes/BP_WinVolume.BP_WinVolume
+[2024.05.05-14.28.05:689][ 55]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::GetCurrentLevelName' [Nie można odnaleźć określonego modułu.]
+[2024.05.05-14.30.22:502][780]LogSlate: Took 0.004838 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.05.05-14.32.29:972][991]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameMode_01.BP_GameMode_01
+[2024.05.05-14.32.36:526][346]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-14.32.36:527][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-14.35.38:538][188]LogUObjectHash: Compacting FUObjectHashTables data took   8.78ms
+[2024.05.05-14.35.38:545][188]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level02' took 0.154
+[2024.05.05-14.35.38:546][188]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Ball_01] ([2] browsable assets)...
+[2024.05.05-14.35.38:608][188]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Ball_01.BP_Ball_01]
+[2024.05.05-14.35.38:609][188]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Ball_01]
+[2024.05.05-14.35.38:661][188]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/BP_Ball_01_Auto2074488FC470FE156C0BF28A4C0C63E27.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/Autosaves/Game/Blueprints/BP_Ball_01_Auto2.uasset'
+[2024.05.05-14.35.38:664][188]LogFileHelpers: Auto-saving content packages took 0.119
+[2024.05.05-14.36.54:941][664]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'USceneComponent::K2_SetWorldRotation' [Nie można odnaleźć elementu.]
+[2024.05.05-14.36.55:791][699]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'USceneComponent::K2_SetWorldRotation' [Nie można odnaleźć elementu.]
+[2024.05.05-14.38.27:018][ 20]BlueprintLog: New page: Compile BP_Ball_01
+[2024.05.05-14.38.27:187][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   8.95ms
+[2024.05.05-14.38.27:927][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2024.05.05-14.38.28:017][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball_01" FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Blueprints/BP_Ball_01.uasset" SILENT=true
+[2024.05.05-14.38.28:070][ 88]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/BP_Ball_01EF8EFCCB4ED8BE50CCE94EA59C947A0D.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Blueprints/BP_Ball_01.uasset'
+[2024.05.05-14.38.28:097][ 88]AssetCheck: New page: Asset Save: BP_Ball_01
+[2024.05.05-14.38.28:097][ 88]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Ball_01.BP_Ball_01
+[2024.05.05-14.38.31:928][302]LogTemp: Repeating last play command: Selected Viewport
+[2024.05.05-14.38.31:943][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.05-14.38.31:943][302]PIE: New page: PIE session: Level02 (5 maj 2024, 18:38:31)
+[2024.05.05-14.38.31:943][302]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level02
+[2024.05.05-14.38.31:954][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010313s)
+[2024.05.05-14.38.31:956][302]LogAIModule: Creating AISystem for world Level02
+[2024.05.05-14.38.31:956][302]LogPlayLevel: PIE: World Init took: (0.002584s)
+[2024.05.05-14.38.31:956][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level02.Level02 to /Game/Levels/UEDPIE_0_Level02.Level02 (0.013121s)
+[2024.05.05-14.38.32:003][302]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2024.05.05-14.38.32:005][302]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.05.05-14.38.32:005][302]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.05-14.38.32:005][302]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.05-14.38.32:005][302]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.05-14.38.32:005][302]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.05-14.38.32:005][302]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.05-14.38.32:005][302]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.05-14.38.32:005][302]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.05-14.38.32:005][302]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.05-14.38.32:006][302]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.05-14.38.32:006][302]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.05-14.38.32:006][302]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.05-14.38.32:006][302]LogAudioMixer: Display: Initializing audio mixer.
+[2024.05.05-14.38.32:013][302]LogAudioMixer: Display: 0: FrontLeft
+[2024.05.05-14.38.32:013][302]LogAudioMixer: Display: 1: FrontRight
+[2024.05.05-14.38.32:030][302]LogAudioMixer: Display: Using Audio Device Głośniki (Conexant SmartAudio HD)
+[2024.05.05-14.38.32:030][302]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.05-14.38.32:030][302]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.05-14.38.32:031][302]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.05-14.38.32:031][302]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.05.05-14.38.32:031][302]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.05.05-14.38.32:032][302]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.05.05-14.38.32:034][302]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.05.05-14.38.32:034][302]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.05.05-14.38.32:034][302]LogInit: FAudioDevice initialized.
+[2024.05.05-14.38.32:034][302]LogAudio: Display: Audio Device (ID: 26) registered with world 'Level02'.
+[2024.05.05-14.38.32:045][302]LogLoad: Game class is 'BP_GameMode_01_C'
+[2024.05.05-14.38.32:047][302]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level02.Level02 up for play (max tick rate 0) at 2024.05.05-16.38.32
+[2024.05.05-14.38.32:048][302]LogWorld: Bringing up level for play took: 0.002497
+[2024.05.05-14.38.32:048][302]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2024.05.05-14.38.32:052][302]PIE: Server logged in
+[2024.05.05-14.38.32:053][302]PIE: Play in editor total start time 0,114 seconds.
+[2024.05.05-14.38.39:764][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.05-14.38.39:764][576]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level02
+[2024.05.05-14.38.39:764][576]LogWorld: UWorld::CleanupWorld for Level02, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-14.38.39:765][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-14.38.39:794][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.05-14.38.39:799][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-14.38.39:839][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.05-14.38.39:840][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.05-14.38.39:841][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.05-14.38.39:851][576]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2024.05.05-14.38.39:882][577]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2024.05.05-14.38.44:245][946]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.05-14.38.44:245][946]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-14.38.44:245][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-14.39.05:301][262]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2024.05.05-14.39.05:388][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball_01" FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Blueprints/BP_Ball_01.uasset" SILENT=true
+[2024.05.05-14.39.05:426][262]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/BP_Ball_0104F2BA3D4D1C78FECE3FE9AE96DA0E5A.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Blueprints/BP_Ball_01.uasset'
+[2024.05.05-14.39.05:443][262]AssetCheck: New page: Asset Save: BP_Ball_01
+[2024.05.05-14.39.05:443][262]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Ball_01.BP_Ball_01
+[2024.05.05-14.39.05:968][321]BlueprintLog: New page: Compile BP_Ball_01
+[2024.05.05-14.39.06:065][321]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2024.05.05-14.39.07:471][471]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2024.05.05-14.39.09:904][604]LogTemp: Repeating last play command: Selected Viewport
+[2024.05.05-14.39.09:919][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.05-14.39.09:919][604]PIE: New page: PIE session: Level02 (5 maj 2024, 18:39:09)
+[2024.05.05-14.39.09:919][604]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level02
+[2024.05.05-14.39.09:929][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009570s)
+[2024.05.05-14.39.09:930][604]LogAIModule: Creating AISystem for world Level02
+[2024.05.05-14.39.09:931][604]LogPlayLevel: PIE: World Init took: (0.001704s)
+[2024.05.05-14.39.09:931][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level02.Level02 to /Game/Levels/UEDPIE_0_Level02.Level02 (0.011477s)
+[2024.05.05-14.39.09:974][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2024.05.05-14.39.09:975][604]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.05.05-14.39.09:975][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.05-14.39.09:975][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.05-14.39.09:975][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.05-14.39.09:975][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.05-14.39.09:975][604]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.05-14.39.09:975][604]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.05-14.39.09:975][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.05-14.39.09:976][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.05-14.39.09:976][604]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.05-14.39.09:976][604]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.05-14.39.09:976][604]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.05-14.39.09:976][604]LogAudioMixer: Display: Initializing audio mixer.
+[2024.05.05-14.39.09:981][604]LogAudioMixer: Display: 0: FrontLeft
+[2024.05.05-14.39.09:981][604]LogAudioMixer: Display: 1: FrontRight
+[2024.05.05-14.39.09:994][604]LogAudioMixer: Display: Using Audio Device Głośniki (Conexant SmartAudio HD)
+[2024.05.05-14.39.09:994][604]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.05-14.39.09:994][604]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.05-14.39.09:995][604]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.05-14.39.09:995][604]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.05.05-14.39.09:995][604]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.05.05-14.39.09:995][604]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.05.05-14.39.09:997][604]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.05.05-14.39.09:997][604]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.05.05-14.39.09:997][604]LogInit: FAudioDevice initialized.
+[2024.05.05-14.39.09:997][604]LogAudio: Display: Audio Device (ID: 27) registered with world 'Level02'.
+[2024.05.05-14.39.10:011][604]LogLoad: Game class is 'BP_GameMode_01_C'
+[2024.05.05-14.39.10:013][604]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level02.Level02 up for play (max tick rate 0) at 2024.05.05-16.39.10
+[2024.05.05-14.39.10:014][604]LogWorld: Bringing up level for play took: 0.001941
+[2024.05.05-14.39.10:014][604]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2024.05.05-14.39.10:018][604]PIE: Server logged in
+[2024.05.05-14.39.10:019][604]PIE: Play in editor total start time 0,103 seconds.
+[2024.05.05-14.39.14:025][733]LogNet: Browse: /Game/Levels/Level02
+[2024.05.05-14.39.14:025][733]LogLoad: LoadMap: /Game/Levels/Level02
+[2024.05.05-14.39.14:025][733]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level02
+[2024.05.05-14.39.14:026][733]LogWorld: UWorld::CleanupWorld for Level02, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-14.39.14:026][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-14.39.14:076][733]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.05-14.39.14:082][733]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2024.05.05-14.39.14:102][733]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level02
+[2024.05.05-14.39.14:112][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009875s)
+[2024.05.05-14.39.14:114][733]LogAIModule: Creating AISystem for world Level02
+[2024.05.05-14.39.14:114][733]LogPlayLevel: PIE: World Init took: (0.002367s)
+[2024.05.05-14.39.14:114][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level02.Level02 to /Game/Levels/UEDPIE_0_Level02.Level02 (0.012710s)
+[2024.05.05-14.39.14:114][733]LogAudio: Display: Audio Device (ID: 27) registered with world 'Level02'.
+[2024.05.05-14.39.14:114][733]LogLoad: Game class is 'BP_GameMode_01_C'
+[2024.05.05-14.39.14:117][733]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level02.Level02 up for play (max tick rate 0) at 2024.05.05-16.39.14
+[2024.05.05-14.39.14:117][733]LogWorld: Bringing up level for play took: 0.001828
+[2024.05.05-14.39.14:119][733]LogLoad: Took 0.094117 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level02)
+[2024.05.05-14.39.22:012][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.05-14.39.22:012][983]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level02
+[2024.05.05-14.39.22:013][983]LogWorld: UWorld::CleanupWorld for Level02, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-14.39.22:013][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-14.39.22:065][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.05-14.39.22:070][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-14.39.22:112][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.05-14.39.22:112][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.05-14.39.22:113][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.05-14.39.22:123][983]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2024.05.05-14.39.22:153][984]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2024.05.05-14.42.42:173][612]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/LvlTriggers/BPLvlTrigger01.BPLvlTrigger01
+[2024.05.05-14.42.48:924][995]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Volumes/BP_WinVolume.BP_WinVolume
+[2024.05.05-14.42.51:937][223]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-14.42.51:937][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-14.42.53:550][395]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2024.05.05-14.42.53:666][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball_01" FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Blueprints/BP_Ball_01.uasset" SILENT=true
+[2024.05.05-14.42.53:707][395]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/BP_Ball_015C56B919410C1A68DC83D38671EDB5D5.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Blueprints/BP_Ball_01.uasset'
+[2024.05.05-14.42.53:726][395]AssetCheck: New page: Asset Save: BP_Ball_01
+[2024.05.05-14.42.53:726][395]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Ball_01.BP_Ball_01
+[2024.05.05-14.42.54:327][459]BlueprintLog: New page: Compile BP_Ball_01
+[2024.05.05-14.42.54:428][459]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2024.05.05-14.43.07:593][986]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::GetCurrentLevelName' [Nie można odnaleźć elementu.]
+[2024.05.05-14.44.35:173][454]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::GetPlayerCameraManager' [Nie można odnaleźć elementu.]
+[2024.05.05-14.44.43:926][228]LogEditorTransaction: Undo Delete current selection
+[2024.05.05-14.45.27:157][372]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::GetPlayerController' [Nie można odnaleźć elementu.]
+[2024.05.05-14.45.28:282][445]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::GetPlayerCameraManager' [Nie można odnaleźć elementu.]
+[2024.05.05-14.45.31:924][765]BlueprintLog: New page: Compile BP_Ball_01
+[2024.05.05-14.45.32:033][765]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2024.05.05-14.47.59:325][733]LogEditorTransaction: Undo Delete current selection
+[2024.05.05-14.50.45:231][842]LogUObjectHash: Compacting FUObjectHashTables data took   6.95ms
+[2024.05.05-14.50.45:237][842]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level02' took 0.072
+[2024.05.05-14.50.45:238][842]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Ball_01] ([2] browsable assets)...
+[2024.05.05-14.50.45:294][842]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Ball_01.BP_Ball_01]
+[2024.05.05-14.50.45:294][842]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Ball_01]
+[2024.05.05-14.50.45:345][842]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/BP_Ball_01_Auto31DE564C949052819265F2E88CA5112F5.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/Autosaves/Game/Blueprints/BP_Ball_01_Auto3.uasset'
+[2024.05.05-14.50.45:349][842]LogFileHelpers: Auto-saving content packages took 0.113
+[2024.05.05-15.05.39:034][397]LogUObjectHash: Compacting FUObjectHashTables data took   6.46ms
+[2024.05.05-15.05.39:036][397]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level02' took 0.056
+[2024.05.05-15.05.39:037][397]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Ball_01] ([2] browsable assets)...
+[2024.05.05-15.05.39:088][397]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Ball_01.BP_Ball_01]
+[2024.05.05-15.05.39:088][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Ball_01]
+[2024.05.05-15.05.39:127][397]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/BP_Ball_01_Auto4EB5FBE4B493FF853D703F6BDF4263D0D.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/Autosaves/Game/Blueprints/BP_Ball_01_Auto4.uasset'
+[2024.05.05-15.05.39:131][397]LogFileHelpers: Auto-saving content packages took 0.095
+[2024.05.05-15.11.41:026][ 60]BlueprintLog: New page: Compile BP_Ball_01
+[2024.05.05-15.11.41:137][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2024.05.05-15.11.41:748][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball_01" FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Blueprints/BP_Ball_01.uasset" SILENT=true
+[2024.05.05-15.11.41:784][117]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/BP_Ball_013509BBA64A0A0FA9C6ED61BBAE28EED0.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Blueprints/BP_Ball_01.uasset'
+[2024.05.05-15.11.41:803][117]AssetCheck: New page: Asset Save: BP_Ball_01
+[2024.05.05-15.11.41:803][117]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Ball_01.BP_Ball_01
+[2024.05.05-15.11.49:740][399]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/LvlTriggers/BPLvlTrigger01.BPLvlTrigger01
+[2024.05.05-15.11.59:809][722]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameMode_01.BP_GameMode_01
+[2024.05.05-15.12.03:767][ 99]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-15.12.03:767][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-15.12.27:374][499]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.05-15.12.27:374][499]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-15.12.27:374][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-15.12.31:371][949]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'USceneComponent::K2_SetWorldRotation' [Nie można odnaleźć elementu.]
+[2024.05.05-15.14.07:260][ 39]BlueprintLog: New page: Compile BPLvlTrigger01
+[2024.05.05-15.14.07:370][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2024.05.05-15.14.07:784][ 75]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/BPLvlTrigger01E22E86EC4EB02E7B4FD2F4A08A227B71.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Blueprints/Actors/LvlTriggers/BPLvlTrigger01.uasset'
+[2024.05.05-15.14.07:810][ 75]AssetCheck: New page: Asset Save: BPLvlTrigger01
+[2024.05.05-15.14.07:810][ 75]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/LvlTriggers/BPLvlTrigger01.BPLvlTrigger01
+[2024.05.05-15.14.09:486][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level02" FILE="../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Levels/Level02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.05-15.14.09:537][184]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2024.05.05-15.14.09:572][184]LogSavePackage: Moving '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Saved/Level021E58C72145EEEF739F403C8471457DD8.tmp' to '../../../../../../Users/klaud/Documents/GitHub/BallRunner/BallRunner/Content/Levels/Level02.umap'
+[2024.05.05-15.14.09:612][184]AssetCheck: New page: Asset Save: Level02
+[2024.05.05-15.14.09:612][184]LogContentValidation: Display: Validating World /Game/Levels/Level02.Level02
+[2024.05.05-15.14.36:030][453]LogTemp: Repeating last play command: Selected Viewport
+[2024.05.05-15.14.36:047][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.05-15.14.36:047][453]PIE: New page: PIE session: Level02 (5 maj 2024, 19:14:36)
+[2024.05.05-15.14.36:048][453]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level02
+[2024.05.05-15.14.36:059][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010925s)
+[2024.05.05-15.14.36:061][453]LogAIModule: Creating AISystem for world Level02
+[2024.05.05-15.14.36:061][453]LogPlayLevel: PIE: World Init took: (0.002276s)
+[2024.05.05-15.14.36:062][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level02.Level02 to /Game/Levels/UEDPIE_0_Level02.Level02 (0.013689s)
+[2024.05.05-15.14.36:111][453]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2024.05.05-15.14.36:113][453]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2024.05.05-15.14.36:113][453]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.05-15.14.36:113][453]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.05-15.14.36:113][453]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.05-15.14.36:113][453]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.05-15.14.36:113][453]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.05-15.14.36:113][453]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.05-15.14.36:113][453]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.05-15.14.36:113][453]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.05-15.14.36:114][453]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.05-15.14.36:114][453]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.05-15.14.36:114][453]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.05-15.14.36:114][453]LogAudioMixer: Display: Initializing audio mixer.
+[2024.05.05-15.14.36:123][453]LogAudioMixer: Display: 0: FrontLeft
+[2024.05.05-15.14.36:123][453]LogAudioMixer: Display: 1: FrontRight
+[2024.05.05-15.14.36:141][453]LogAudioMixer: Display: Using Audio Device Głośniki (Conexant SmartAudio HD)
+[2024.05.05-15.14.36:142][453]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.05-15.14.36:142][453]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.05-15.14.36:142][453]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.05-15.14.36:143][453]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.05.05-15.14.36:143][453]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.05.05-15.14.36:143][453]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.05.05-15.14.36:146][453]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.05.05-15.14.36:146][453]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.05.05-15.14.36:146][453]LogInit: FAudioDevice initialized.
+[2024.05.05-15.14.36:146][453]LogAudio: Display: Audio Device (ID: 28) registered with world 'Level02'.
+[2024.05.05-15.14.36:166][453]LogLoad: Game class is 'BP_GameMode_01_C'
+[2024.05.05-15.14.36:170][453]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level02.Level02 up for play (max tick rate 0) at 2024.05.05-17.14.36
+[2024.05.05-15.14.36:170][453]LogWorld: Bringing up level for play took: 0.003647
+[2024.05.05-15.14.36:171][453]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2024.05.05-15.14.36:176][453]PIE: Server logged in
+[2024.05.05-15.14.36:177][453]PIE: Play in editor total start time 0,134 seconds.
+[2024.05.05-15.14.43:580][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.05-15.14.43:580][722]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level02
+[2024.05.05-15.14.43:580][722]LogWorld: UWorld::CleanupWorld for Level02, bSessionEnded=true, bCleanupResources=true
+[2024.05.05-15.14.43:581][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-15.14.43:597][722]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.05-15.14.43:603][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.05-15.14.43:648][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.05-15.14.43:648][722]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.05-15.14.43:649][722]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.05.05-15.14.43:664][722]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2024.05.05-15.14.43:706][723]LogPlayLevel: Display: Destroying online subsystem :Context_56
